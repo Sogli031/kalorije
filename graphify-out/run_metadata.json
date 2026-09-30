@@ -1,0 +1,12 @@
+{
+  "updated_at": "2026-06-02T21:02:10.260082+00:00",
+  "input_path": "C:\\Users\\PC\\Desktop\\programi\\kalorije",
+  "total_files": 84,
+  "total_words": 54954,
+  "nodes": 1099,
+  "edges": 1886,
+  "hyperedges": 12,
+  "input_tokens": 0,
+  "output_tokens": 0,
+  "token_note": "Codex subagent usage metadata was not exposed; semantic chunks kept graphify placeholder token counts."
+}

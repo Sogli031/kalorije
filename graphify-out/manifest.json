@@ -1,0 +1,422 @@
+{
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\build.gradle.kts": {
+    "mtime": 1778362064.8077655,
+    "ast_hash": "75852cfebfc697ef0a409a681913290b",
+    "semantic_hash": "75852cfebfc697ef0a409a681913290b"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\KalorijeApplication.kt": {
+    "mtime": 1778373413.4803197,
+    "ast_hash": "4f7f82098e697a8e472c36b1d4714869",
+    "semantic_hash": "4f7f82098e697a8e472c36b1d4714869"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\MainActivity.kt": {
+    "mtime": 1780118160.7389107,
+    "ast_hash": "6a56cecb0c7fc522ecff5a38e0897ac6",
+    "semantic_hash": "6a56cecb0c7fc522ecff5a38e0897ac6"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\data\\backup\\GoogleDriveBackup.kt": {
+    "mtime": 1778362098.1712852,
+    "ast_hash": "1adbe37e70f0728aff811b2b1f123736",
+    "semantic_hash": "1adbe37e70f0728aff811b2b1f123736"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\data\\backup\\GoogleDriveBackupProvider.kt": {
+    "mtime": 1768318858.7404904,
+    "ast_hash": "d371da489ded078f237b77aaf24f735c",
+    "semantic_hash": "d371da489ded078f237b77aaf24f735c"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\data\\backup\\SyncManager.kt": {
+    "mtime": 1778362106.2510004,
+    "ast_hash": "47e3864cc5b2b19a6455d2c6d2622df7",
+    "semantic_hash": "47e3864cc5b2b19a6455d2c6d2622df7"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\data\\db\\Converters.kt": {
+    "mtime": 1770731006.8373795,
+    "ast_hash": "661639a4f46897d65a2ea4cd4f0e3b0e",
+    "semantic_hash": "661639a4f46897d65a2ea4cd4f0e3b0e"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\data\\db\\JsonToRoomMigration.kt": {
+    "mtime": 1770731778.0544012,
+    "ast_hash": "15f83fc7f5ff4d23fb567514c0a90ebf",
+    "semantic_hash": "15f83fc7f5ff4d23fb567514c0a90ebf"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\data\\db\\KalorijeDatabase.kt": {
+    "mtime": 1770731050.7706473,
+    "ast_hash": "79fb0d47014dd347de507d8210293e03",
+    "semantic_hash": "79fb0d47014dd347de507d8210293e03"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\data\\db\\dao\\DaoModels.kt": {
+    "mtime": 1770731018.3589146,
+    "ast_hash": "0eaef8eefabdcef95895e95a905786c2",
+    "semantic_hash": "0eaef8eefabdcef95895e95a905786c2"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\data\\db\\dao\\FoodEntryDao.kt": {
+    "mtime": 1770731032.319837,
+    "ast_hash": "d7f4af5fdbca44edf42f6fcf6d3570be",
+    "semantic_hash": "d7f4af5fdbca44edf42f6fcf6d3570be"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\data\\db\\dao\\FoodProductDao.kt": {
+    "mtime": 1770731024.5546129,
+    "ast_hash": "23ddf48d49e8fd2886ab1695d0979fd7",
+    "semantic_hash": "23ddf48d49e8fd2886ab1695d0979fd7"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\data\\db\\dao\\SavedFoodDao.kt": {
+    "mtime": 1770731035.0413134,
+    "ast_hash": "f42b46b3748fefac631bcd926cfbc89e",
+    "semantic_hash": "f42b46b3748fefac631bcd926cfbc89e"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\data\\db\\entity\\FoodEntryEntity.kt": {
+    "mtime": 1770731012.7825215,
+    "ast_hash": "e112e4cb802cefe1083b244a08d305cb",
+    "semantic_hash": "e112e4cb802cefe1083b244a08d305cb"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\data\\db\\entity\\FoodProductEntity.kt": {
+    "mtime": 1770731009.633605,
+    "ast_hash": "83d56bec8e5f1d8338e33c842e7e7e0a",
+    "semantic_hash": "83d56bec8e5f1d8338e33c842e7e7e0a"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\data\\db\\entity\\SavedFoodEntity.kt": {
+    "mtime": 1770731014.7503817,
+    "ast_hash": "05586fa876c4f28707ed4331c5e458e1",
+    "semantic_hash": "05586fa876c4f28707ed4331c5e458e1"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\data\\db\\mapper\\EntityMappers.kt": {
+    "mtime": 1770731042.645931,
+    "ast_hash": "8486029355d5d0a33d583038cbebfafa",
+    "semantic_hash": "8486029355d5d0a33d583038cbebfafa"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\data\\db\\relation\\FoodEntryWithProduct.kt": {
+    "mtime": 1770731016.5094528,
+    "ast_hash": "c65fed1cfb967ece52ebdc9ce48d2a8e",
+    "semantic_hash": "c65fed1cfb967ece52ebdc9ce48d2a8e"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\data\\model\\CycleHistory.kt": {
+    "mtime": 1770389596.0054505,
+    "ast_hash": "6f34564c0085dea54397d8567cee58f6",
+    "semantic_hash": "6f34564c0085dea54397d8567cee58f6"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\data\\model\\DailyGoals.kt": {
+    "mtime": 1768318699.71434,
+    "ast_hash": "f6ea371e2bccef54797371ec18b6918d",
+    "semantic_hash": "f6ea371e2bccef54797371ec18b6918d"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\data\\model\\FoodEntry.kt": {
+    "mtime": 1768813554.6147351,
+    "ast_hash": "3931b9023aae429051827ba5047c5695",
+    "semantic_hash": "3931b9023aae429051827ba5047c5695"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\data\\model\\FoodProduct.kt": {
+    "mtime": 1768318698.7911813,
+    "ast_hash": "474630cb1f623203087bdb7b13f3e1db",
+    "semantic_hash": "474630cb1f623203087bdb7b13f3e1db"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\data\\model\\MacroSummary.kt": {
+    "mtime": 1768318700.2057805,
+    "ast_hash": "10b185bf35b4a7086e00c6f336d087df",
+    "semantic_hash": "10b185bf35b4a7086e00c6f336d087df"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\data\\model\\MealCartItem.kt": {
+    "mtime": 1768675457.27329,
+    "ast_hash": "eed95d49060efee607ba7acf7c7356ed",
+    "semantic_hash": "eed95d49060efee607ba7acf7c7356ed"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\data\\model\\MealType.kt": {
+    "mtime": 1770389563.1066866,
+    "ast_hash": "1d7032324398f75deef61925f1105ec0",
+    "semantic_hash": "1d7032324398f75deef61925f1105ec0"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\data\\model\\PostCycleState.kt": {
+    "mtime": 1770726247.586975,
+    "ast_hash": "57eb732000063f7e9035ae5a07e565f2",
+    "semantic_hash": "57eb732000063f7e9035ae5a07e565f2"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\data\\model\\SavedFood.kt": {
+    "mtime": 1768485166.350109,
+    "ast_hash": "03723322f5eaba3b3f18fbf4737b9b79",
+    "semantic_hash": "03723322f5eaba3b3f18fbf4737b9b79"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\data\\model\\TdeeProfile.kt": {
+    "mtime": 1770726239.8864913,
+    "ast_hash": "90ca540e3d260c90bd44ef504d112d1e",
+    "semantic_hash": "90ca540e3d260c90bd44ef504d112d1e"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\data\\model\\UserProfile.kt": {
+    "mtime": 1770729046.270897,
+    "ast_hash": "76d7ef31d32fe85a652013e9592561b9",
+    "semantic_hash": "76d7ef31d32fe85a652013e9592561b9"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\data\\model\\WeightEntry.kt": {
+    "mtime": 1770389564.912619,
+    "ast_hash": "f03b2a653a14ef28b9fcf5ff4b0128f4",
+    "semantic_hash": "f03b2a653a14ef28b9fcf5ff4b0128f4"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\data\\model\\WeightInsight.kt": {
+    "mtime": 1768399467.9037817,
+    "ast_hash": "0e626f13d8011cd5bdbd09f46b3a673b",
+    "semantic_hash": "0e626f13d8011cd5bdbd09f46b3a673b"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\data\\repository\\FoodRepository.kt": {
+    "mtime": 1771255513.4486222,
+    "ast_hash": "27edfc094d34d2d83cb92c36d03f37c3",
+    "semantic_hash": "27edfc094d34d2d83cb92c36d03f37c3"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\notification\\BootReceiver.kt": {
+    "mtime": 1780115059.9406583,
+    "ast_hash": "b282a79cfe4c29167d704534f4330f59",
+    "semantic_hash": "b282a79cfe4c29167d704534f4330f59"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\notification\\NotificationHelper.kt": {
+    "mtime": 1780115138.0860822,
+    "ast_hash": "50ea5b6314d4daee083b418b12ae652b",
+    "semantic_hash": "50ea5b6314d4daee083b418b12ae652b"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\notification\\WeightReminderReceiver.kt": {
+    "mtime": 1770503871.621114,
+    "ast_hash": "21f76c04c955b24e1ab66dd143099351",
+    "semantic_hash": "21f76c04c955b24e1ab66dd143099351"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\ui\\components\\AddSavedFoodDialog.kt": {
+    "mtime": 1770463536.5996833,
+    "ast_hash": "07cd9ee39b7e85d9451c65e9c6b857da",
+    "semantic_hash": "07cd9ee39b7e85d9451c65e9c6b857da"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\ui\\components\\EditSavedFoodDialog.kt": {
+    "mtime": 1770500999.3470478,
+    "ast_hash": "a0d45f85bb8b0d74d68b180a9a12e0ab",
+    "semantic_hash": "a0d45f85bb8b0d74d68b180a9a12e0ab"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\ui\\components\\FoodEntryCard.kt": {
+    "mtime": 1779551327.887269,
+    "ast_hash": "a028ad4e8657749c244220a737a73138",
+    "semantic_hash": "a028ad4e8657749c244220a737a73138"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\ui\\components\\GlassCard.kt": {
+    "mtime": 1779549876.457947,
+    "ast_hash": "b8121039139980e60b2f4857a9e71cdc",
+    "semantic_hash": "b8121039139980e60b2f4857a9e71cdc"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\ui\\components\\MacroProgressBar.kt": {
+    "mtime": 1779550203.022797,
+    "ast_hash": "096913d272e1f3ea79df2189842e49e6",
+    "semantic_hash": "096913d272e1f3ea79df2189842e49e6"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\ui\\components\\SavedFoodsDialog.kt": {
+    "mtime": 1770463201.2021506,
+    "ast_hash": "464b02fbd0efd093e1a971ea2858c707",
+    "semantic_hash": "464b02fbd0efd093e1a971ea2858c707"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\ui\\components\\SharedComponents.kt": {
+    "mtime": 1779552331.5732565,
+    "ast_hash": "7f2802c645a0635b6970cdc7241842fc",
+    "semantic_hash": "7f2802c645a0635b6970cdc7241842fc"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\ui\\components\\WeightLineChart.kt": {
+    "mtime": 1770503774.3702576,
+    "ast_hash": "ac0c46f70ba4807f02efd61c5222aff3",
+    "semantic_hash": "ac0c46f70ba4807f02efd61c5222aff3"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\ui\\navigation\\NavGraph.kt": {
+    "mtime": 1780116073.5700533,
+    "ast_hash": "481f12a5ea7d622f3fb25ede6f4ab653",
+    "semantic_hash": "481f12a5ea7d622f3fb25ede6f4ab653"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\ui\\screens\\CrashLogScreen.kt": {
+    "mtime": 1770576552.4088566,
+    "ast_hash": "0914918fbd1b687af0fab2b060856954",
+    "semantic_hash": "0914918fbd1b687af0fab2b060856954"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\ui\\screens\\EditEntryScreen.kt": {
+    "mtime": 1770500738.675267,
+    "ast_hash": "b80a1322a36ba67832b6de1e4f21a24d",
+    "semantic_hash": "b80a1322a36ba67832b6de1e4f21a24d"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\ui\\screens\\HistoryScreen.kt": {
+    "mtime": 1779551862.6513975,
+    "ast_hash": "7b51e472fd5f00c31c4a3b29473f2819",
+    "semantic_hash": "7b51e472fd5f00c31c4a3b29473f2819"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\ui\\screens\\HomeScreen.kt": {
+    "mtime": 1779550841.4155707,
+    "ast_hash": "8c8d6cc011433f9546044cc1a0bd7c2e",
+    "semantic_hash": "8c8d6cc011433f9546044cc1a0bd7c2e"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\ui\\screens\\ManualEntryScreen.kt": {
+    "mtime": 1779551845.6458032,
+    "ast_hash": "8e1a7aad72ebfac36b7094980afcdce8",
+    "semantic_hash": "8e1a7aad72ebfac36b7094980afcdce8"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\ui\\screens\\SavedFoodsScreen.kt": {
+    "mtime": 1770463554.0505862,
+    "ast_hash": "5195577fa0bf5df19740470f5e01fe4a",
+    "semantic_hash": "5195577fa0bf5df19740470f5e01fe4a"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\ui\\screens\\ShakeEntryScreen.kt": {
+    "mtime": 1771324408.1458964,
+    "ast_hash": "78abb01ccc5b52713b68b7d9150c30c1",
+    "semantic_hash": "78abb01ccc5b52713b68b7d9150c30c1"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\ui\\screens\\ShakeFoodsPickerScreen.kt": {
+    "mtime": 1771255553.3611262,
+    "ast_hash": "2a70913ea5dad06043248bff89a6226e",
+    "semantic_hash": "2a70913ea5dad06043248bff89a6226e"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\ui\\screens\\history\\HistoryViewModel.kt": {
+    "mtime": 1770731262.2897117,
+    "ast_hash": "c0e66b71aa57e40c79daae71af115182",
+    "semantic_hash": "c0e66b71aa57e40c79daae71af115182"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\ui\\screens\\settings\\CloudBackupSection.kt": {
+    "mtime": 1770560725.856253,
+    "ast_hash": "f58280336281596812faacdf3ba030c4",
+    "semantic_hash": "f58280336281596812faacdf3ba030c4"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\ui\\screens\\settings\\CycleAnalysisDialog.kt": {
+    "mtime": 1770542964.6948926,
+    "ast_hash": "0c7b44953d3c3771f92c86c24ce6ed06",
+    "semantic_hash": "0c7b44953d3c3771f92c86c24ce6ed06"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\ui\\screens\\settings\\GoalModeSection.kt": {
+    "mtime": 1770726491.8867936,
+    "ast_hash": "70fc048f25a548ff101c5b0fae673bbf",
+    "semantic_hash": "70fc048f25a548ff101c5b0fae673bbf"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\ui\\screens\\settings\\GoalsPreviewSection.kt": {
+    "mtime": 1770726571.9173658,
+    "ast_hash": "45443e6b3341bde8657716b0d574efa3",
+    "semantic_hash": "45443e6b3341bde8657716b0d574efa3"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\ui\\screens\\settings\\ProfileSection.kt": {
+    "mtime": 1770726516.9358797,
+    "ast_hash": "4795d5637531cb64139cd27fd11b4d7b",
+    "semantic_hash": "4795d5637531cb64139cd27fd11b4d7b"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\ui\\screens\\settings\\ReminderSection.kt": {
+    "mtime": 1770542929.4191387,
+    "ast_hash": "bdcfd88bc264b3df44fa3fd5a51d0a82",
+    "semantic_hash": "bdcfd88bc264b3df44fa3fd5a51d0a82"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\ui\\screens\\settings\\SettingsScreen.kt": {
+    "mtime": 1780116073.5700533,
+    "ast_hash": "bbdcbd7e0c6b69150f5f45a5fbf85573",
+    "semantic_hash": "bbdcbd7e0c6b69150f5f45a5fbf85573"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\ui\\screens\\settings\\SettingsViewModel.kt": {
+    "mtime": 1778362110.3015292,
+    "ast_hash": "f814c1a67a0f5dcd1660d1fe6c954e48",
+    "semantic_hash": "f814c1a67a0f5dcd1660d1fe6c954e48"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\ui\\screens\\settings\\TrtSection.kt": {
+    "mtime": 1770726553.601718,
+    "ast_hash": "7bbaacb3beceb2896bce645205b98e7b",
+    "semantic_hash": "7bbaacb3beceb2896bce645205b98e7b"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\ui\\screens\\weight\\WeightProgressScreen.kt": {
+    "mtime": 1779552343.4715712,
+    "ast_hash": "58753c29303086b3a759055183cf4b9e",
+    "semantic_hash": "58753c29303086b3a759055183cf4b9e"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\ui\\screens\\weight\\WeightProgressViewModel.kt": {
+    "mtime": 1770729355.710465,
+    "ast_hash": "5b83d11268607959117dfbe5a1ebf539",
+    "semantic_hash": "5b83d11268607959117dfbe5a1ebf539"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\ui\\theme\\Theme.kt": {
+    "mtime": 1779549640.8486736,
+    "ast_hash": "b0771837841990baa131991747c03a44",
+    "semantic_hash": "b0771837841990baa131991747c03a44"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\util\\DateUtil.kt": {
+    "mtime": 1771256359.1632037,
+    "ast_hash": "ca5e7cbfe6e6ca332c67500d8a11c47f",
+    "semantic_hash": "ca5e7cbfe6e6ca332c67500d8a11c47f"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\util\\GsonProvider.kt": {
+    "mtime": 1768318709.5356653,
+    "ast_hash": "33f9ab54a5e2165c2a82f69749ec7171",
+    "semantic_hash": "33f9ab54a5e2165c2a82f69749ec7171"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\util\\MealGrouping.kt": {
+    "mtime": 1771256370.2484236,
+    "ast_hash": "4deb3a3f3b41e82ae1bc212da69bff74",
+    "semantic_hash": "4deb3a3f3b41e82ae1bc212da69bff74"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\util\\PartitionCalculator.kt": {
+    "mtime": 1770071157.2880256,
+    "ast_hash": "3119edec083b40252ad21325f54e916b",
+    "semantic_hash": "3119edec083b40252ad21325f54e916b"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\kalorije\\app\\util\\WeightNormalizer.kt": {
+    "mtime": 1770644945.2275054,
+    "ast_hash": "38ac697e92ee0e6cc76096882b9dc783",
+    "semantic_hash": "38ac697e92ee0e6cc76096882b9dc783"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\main\\java\\com\\programi\\crashlog\\CrashLogStorage.kt": {
+    "mtime": 1778373356.489539,
+    "ast_hash": "26f6bfa06aac031350ff8d6ba3d597a2",
+    "semantic_hash": "26f6bfa06aac031350ff8d6ba3d597a2"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\test\\java\\com\\kalorije\\app\\notification\\NotificationHelperTest.kt": {
+    "mtime": 1780118013.768434,
+    "ast_hash": "cb83b10410e41d81f833547f5ebf9348",
+    "semantic_hash": "cb83b10410e41d81f833547f5ebf9348"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\test\\java\\com\\kalorije\\app\\ui\\SettingsInsetsTest.kt": {
+    "mtime": 1780116050.3469715,
+    "ast_hash": "5d34508bebe850863c3c607075a78f37",
+    "semantic_hash": "5d34508bebe850863c3c607075a78f37"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\app\\src\\test\\java\\com\\kalorije\\app\\util\\MealGroupingTest.kt": {
+    "mtime": 1771256380.9831948,
+    "ast_hash": "4f9786243d419a6ead835c9c7dc4e51e",
+    "semantic_hash": "4f9786243d419a6ead835c9c7dc4e51e"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\build.gradle.kts": {
+    "mtime": 1770730974.7963197,
+    "ast_hash": "75d5f937f407e2415074058bc5afd317",
+    "semantic_hash": "75d5f937f407e2415074058bc5afd317"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\gradlew": {
+    "mtime": 1766318153.1123214,
+    "ast_hash": "780b1d3e23a3b82154795f73df943a14",
+    "semantic_hash": "780b1d3e23a3b82154795f73df943a14"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\refactor.sh": {
+    "mtime": 1770545853.4834833,
+    "ast_hash": "a9e5f6bc76881e255d5b628dadc6bc2a",
+    "semantic_hash": "a9e5f6bc76881e255d5b628dadc6bc2a"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\settings.gradle.kts": {
+    "mtime": 1768318620.090193,
+    "ast_hash": "82588e08fbe1c5074ef7952c933a523e",
+    "semantic_hash": "82588e08fbe1c5074ef7952c933a523e"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\build_log.txt": {
+    "mtime": 1768485986.708884,
+    "ast_hash": "6e1656b71de12b2b854c2fc853f47b7b",
+    "semantic_hash": "6e1656b71de12b2b854c2fc853f47b7b"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\build_output.txt": {
+    "mtime": 1768485785.372549,
+    "ast_hash": "04ae3530c331f50fc411cad9f39437f5",
+    "semantic_hash": "04ae3530c331f50fc411cad9f39437f5"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\docs\\plans\\2026-05-23-ui-refresh.md": {
+    "mtime": 1779564985.245998,
+    "ast_hash": "9b8f0a066ee117bbc71b92a99ad051f0",
+    "semantic_hash": "9b8f0a066ee117bbc71b92a99ad051f0"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\project-map.md": {
+    "mtime": 1778618846.2165294,
+    "ast_hash": "910fd5a57dbe55e3f3ba25b4e4128671",
+    "semantic_hash": "910fd5a57dbe55e3f3ba25b4e4128671"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\weight-algorithm.md": {
+    "mtime": 1768813063.7164097,
+    "ast_hash": "8a24a3aad10a1ebadcdedc089bca7c1d",
+    "semantic_hash": "8a24a3aad10a1ebadcdedc089bca7c1d"
+  },
+  "C:\\Users\\PC\\Desktop\\programi\\kalorije\\weight_input_replacement.txt": {
+    "mtime": 1770545910.4746244,
+    "ast_hash": "be24296cd24aac133d379ab44e77c40c",
+    "semantic_hash": "be24296cd24aac133d379ab44e77c40c"
+  }
+}

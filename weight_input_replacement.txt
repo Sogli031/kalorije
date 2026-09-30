@@ -1,0 +1,19 @@
+                item(contentType = "weight_input") {
+                    WeightInputSection(
+                        newWeight = newWeight,
+                        onNewWeightChange = { newWeight = it },
+                        measurementTime = measurementTime,
+                        onMeasurementTimeChange = { input ->
+                            val filtered = input.filter { it.isDigit() || it == ':' }.take(5)
+                            measurementTime = filtered
+                        },
+                        parsedWeight = parsedWeight,
+                        weightRangeError = weightRangeError,
+                        onAddWeight = { weight, validTime ->
+                            viewModel.addWeightEntry(weight, validTime)
+                            newWeight = ""
+                            val now = LocalTime.now()
+                            measurementTime = String.format("%02d:%02d", now.hour, now.minute)
+                        }
+                    )
+                }
